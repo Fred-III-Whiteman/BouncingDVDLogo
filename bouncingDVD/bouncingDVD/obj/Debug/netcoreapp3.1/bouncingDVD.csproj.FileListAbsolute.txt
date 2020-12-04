@@ -1,0 +1,13 @@
+C:\Users\derfw\OneDrive\Desktop\CPSC1012\codespace\bouncingDVD\bouncingDVD\bin\Debug\netcoreapp3.1\bouncingDVD.exe
+C:\Users\derfw\OneDrive\Desktop\CPSC1012\codespace\bouncingDVD\bouncingDVD\bin\Debug\netcoreapp3.1\bouncingDVD.deps.json
+C:\Users\derfw\OneDrive\Desktop\CPSC1012\codespace\bouncingDVD\bouncingDVD\bin\Debug\netcoreapp3.1\bouncingDVD.runtimeconfig.json
+C:\Users\derfw\OneDrive\Desktop\CPSC1012\codespace\bouncingDVD\bouncingDVD\bin\Debug\netcoreapp3.1\bouncingDVD.runtimeconfig.dev.json
+C:\Users\derfw\OneDrive\Desktop\CPSC1012\codespace\bouncingDVD\bouncingDVD\bin\Debug\netcoreapp3.1\bouncingDVD.dll
+C:\Users\derfw\OneDrive\Desktop\CPSC1012\codespace\bouncingDVD\bouncingDVD\bin\Debug\netcoreapp3.1\bouncingDVD.pdb
+C:\Users\derfw\OneDrive\Desktop\CPSC1012\codespace\bouncingDVD\bouncingDVD\obj\Debug\netcoreapp3.1\bouncingDVD.csprojAssemblyReference.cache
+C:\Users\derfw\OneDrive\Desktop\CPSC1012\codespace\bouncingDVD\bouncingDVD\obj\Debug\netcoreapp3.1\bouncingDVD.AssemblyInfoInputs.cache
+C:\Users\derfw\OneDrive\Desktop\CPSC1012\codespace\bouncingDVD\bouncingDVD\obj\Debug\netcoreapp3.1\bouncingDVD.AssemblyInfo.cs
+C:\Users\derfw\OneDrive\Desktop\CPSC1012\codespace\bouncingDVD\bouncingDVD\obj\Debug\netcoreapp3.1\bouncingDVD.csproj.CoreCompileInputs.cache
+C:\Users\derfw\OneDrive\Desktop\CPSC1012\codespace\bouncingDVD\bouncingDVD\obj\Debug\netcoreapp3.1\bouncingDVD.dll
+C:\Users\derfw\OneDrive\Desktop\CPSC1012\codespace\bouncingDVD\bouncingDVD\obj\Debug\netcoreapp3.1\bouncingDVD.pdb
+C:\Users\derfw\OneDrive\Desktop\CPSC1012\codespace\bouncingDVD\bouncingDVD\obj\Debug\netcoreapp3.1\bouncingDVD.genruntimeconfig.cache
