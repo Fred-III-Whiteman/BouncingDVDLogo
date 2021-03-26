@@ -7,6 +7,9 @@ namespace bouncingDVD
     {
         static void Main(string[] args)
         {
+            // set the size for the console
+            Console.SetWindowSize(201, 73);
+
             // read ASCII art
             string[] logo = File.ReadAllLines("../../../Logo20.txt"); // if changed to logo25 the logic must also change
 
@@ -27,7 +30,7 @@ namespace bouncingDVD
                 Console.WriteLine();
 
                 // find right border
-                int rightBorder = (200 - x);
+                int rightBorder = (201 - x);
                 string side = "|";
 
                 // draw initial y lines

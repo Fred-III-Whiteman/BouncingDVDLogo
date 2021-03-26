@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\derfw\\OneDrive\\Desktop\\CPSC1012\\codespace\\bouncingDVD\\bouncingDVD\\bouncingDVD.csproj",
+      "projectUniqueName": "C:\\Users\\derfw\\OneDrive\\Desktop\\NAIT\\CPSC1012\\codespace\\bouncingDVD\\bouncingDVD\\bouncingDVD.csproj",
       "projectName": "bouncingDVD",
-      "projectPath": "C:\\Users\\derfw\\OneDrive\\Desktop\\CPSC1012\\codespace\\bouncingDVD\\bouncingDVD\\bouncingDVD.csproj",
+      "projectPath": "C:\\Users\\derfw\\OneDrive\\Desktop\\NAIT\\CPSC1012\\codespace\\bouncingDVD\\bouncingDVD\\bouncingDVD.csproj",
       "packagesPath": "C:\\Users\\derfw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\derfw\\OneDrive\\Desktop\\CPSC1012\\codespace\\bouncingDVD\\bouncingDVD\\obj\\",
+      "outputPath": "C:\\Users\\derfw\\OneDrive\\Desktop\\NAIT\\CPSC1012\\codespace\\bouncingDVD\\bouncingDVD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\derfw\\AppData\\Roaming\\NuGet\\NuGet.Config",
